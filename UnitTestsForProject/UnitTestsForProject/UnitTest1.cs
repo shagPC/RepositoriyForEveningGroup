@@ -9,7 +9,7 @@ namespace UnitTestsForProject
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("МОИ ИЗМЕНЕНИЯ ТАКОВЫ!");
+            Console.WriteLine("МОИ ИЗМЕНЕНИЯ неть!");
         }
     }
 }
