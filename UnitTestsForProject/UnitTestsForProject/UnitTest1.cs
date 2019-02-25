@@ -13,6 +13,7 @@ namespace UnitTestsForProject
             Console.WriteLine("Привет?");
             Console.WriteLine("Hello");
             Console.WriteLine("Hi!!!!!!!");
+            Console.WriteLine("Здравствуйте");
         }
     }
 }
