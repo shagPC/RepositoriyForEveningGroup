@@ -9,6 +9,7 @@ namespace UnitTestsForProject
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
