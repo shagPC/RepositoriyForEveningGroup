@@ -5,3 +5,10 @@ c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\Un
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.csprojResolveAssemblyReference.cache
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.dll
 c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.pdb
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\bin\Debug\UnitTestsForProject.dll
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\bin\Debug\UnitTestsForProject.pdb
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.csprojResolveAssemblyReference.cache
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.dll
+C:\Users\ГурьевД\Source\Repos\RepositoriyForEveningGroup\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.pdb
