@@ -1,0 +1,7 @@
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\bin\Debug\UnitTestsForProject.dll
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\bin\Debug\UnitTestsForProject.pdb
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.csprojResolveAssemblyReference.cache
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.dll
+c:\users\квест\documents\visual studio 2015\Projects\UnitTestsForProject\UnitTestsForProject\obj\Debug\UnitTestsForProject.pdb
