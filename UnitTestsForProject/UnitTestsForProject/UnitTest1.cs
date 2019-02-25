@@ -11,6 +11,8 @@ namespace UnitTestsForProject
         {
             Console.WriteLine("Hello???");
             Console.WriteLine("Привет?");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hi!!!!!!!");
         }
     }
 }
