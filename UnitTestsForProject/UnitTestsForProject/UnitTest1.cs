@@ -13,5 +13,10 @@ namespace UnitTestsForProject
             Console.WriteLine("Привет?");
             Console.WriteLine("Здравствуйте");
         }
+        [TestMethod]
+        public void GurievMethod()
+        {
+            Console.WriteLine("hello, guys!");
+        }
     }
 }
