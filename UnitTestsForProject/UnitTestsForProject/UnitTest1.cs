@@ -11,7 +11,14 @@ namespace UnitTestsForProject
         {
             Console.WriteLine("Изменяю development");
         }
-
+        [TestMethod]
+        public void Sum_2and3()
+        {
+            int two = 2;
+            int three = 3;
+            int sum = two + three;
+            Assert.AreEqual(5,sum);
+        }
         [TestMethod]
         public void ProfessionalTest()
         {
