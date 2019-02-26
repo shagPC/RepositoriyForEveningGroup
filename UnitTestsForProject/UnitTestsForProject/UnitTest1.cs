@@ -11,5 +11,11 @@ namespace UnitTestsForProject
         {
             Console.WriteLine("Изменяю development");
         }
+
+        [TestMethod]
+        public void ProfessionalTest()
+        {
+            Console.WriteLine("Bla Bla Bla");
+        }
     }
 }
