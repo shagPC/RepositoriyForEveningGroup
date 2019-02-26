@@ -50,7 +50,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="DastanUser.cs" />
     <Compile Include="Professional.cs" />
     <Compile Include="Argen.cs" />
     <Compile Include="DastanUnitTest.cs" />
