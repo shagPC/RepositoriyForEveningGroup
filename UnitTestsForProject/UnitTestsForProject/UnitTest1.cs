@@ -9,7 +9,7 @@ namespace UnitTestsForProject
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("Изменяю dev");
+            Console.WriteLine("Изменяю development");
         }
     }
 }
