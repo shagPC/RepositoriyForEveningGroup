@@ -53,6 +53,7 @@
     <Compile Include="DastanUser.cs" />
     <Compile Include="Professional.cs" />
     <Compile Include="Argen.cs" />
+    <Compile Include="DastanUnitTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

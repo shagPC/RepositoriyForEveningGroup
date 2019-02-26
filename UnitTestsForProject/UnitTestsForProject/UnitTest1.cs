@@ -9,7 +9,26 @@ namespace UnitTestsForProject
         [TestMethod]
         public void TestMethod1()
         {
-            Console.WriteLine("Изменяю dev");
+            Console.WriteLine("Изменяю development");
+        }
+        [TestMethod]
+        public void Sum_2and3()
+        {
+            int two = 2;
+            int three = 3;
+            int sum = two + three;
+            Assert.AreEqual(5,sum);
+        }
+        [TestMethod]
+        public void ProfessionalTest()
+        {
+            Console.WriteLine("Bla Bla Bla");
+        }
+
+        [TestMethod]
+        public void DastanTest()
+        {
+            Console.WriteLine("Bla?");
         }
         [TestMethod]
         public void GurievMethod()
