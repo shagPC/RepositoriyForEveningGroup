@@ -17,5 +17,11 @@ namespace UnitTestsForProject
         {
             Console.WriteLine("Bla Bla Bla");
         }
+
+        [TestMethod]
+        public void DastanTest()
+        {
+            Console.WriteLine("Bla?");
+        }
     }
 }
